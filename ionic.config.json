@@ -1,0 +1,7 @@
+{
+  "name": "Postcode Looker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
